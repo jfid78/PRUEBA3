@@ -1,0 +1,33 @@
+body {
+}
+.bosque {
+    position:absolute;
+    margin-top: 0px;
+    padding: 0px;
+    background-image: url(../img/vegetacion.png);
+    background-color: forestgreen;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    height: 900px;
+    
+}
+.tienda {
+    margin-top:290px;
+    margin-left:517px;
+    width: 8%;
+    height: 8%;
+}
+.osito {
+    margin-top:110px;
+    margin-left:230px;
+    width: 4%;
+    height: 4%;
+}
+
+.perol {
+    margin-top:-155px;
+    margin-left:610px;
+    width: 4%;
+    height: 4%;
+}
